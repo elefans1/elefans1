@@ -3,5 +3,7 @@
       
  I’m currently learning Ruby, Ruby on Rails, and Python.
  
- You can reach me at:
-          seantelefant@gmail.com 
+ ## Contact Information:
+ * [Email](seantelefant@gmail.com)
+ * [LinkedIn](https://www.linkedin.com/in/seanelefant/)
+ * [LinkTree](https://linktr.ee/seanelefant)

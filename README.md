@@ -1,5 +1,5 @@
   # Hi, I’m Sean Elefant!
-  I am a Junior Computer Science major at The College of New Jersey, who is also pursuing a minor in Criminology.
+  I am a Senior Computer Science major at The College of New Jersey, who is also pursuing a minor in Criminology.
   
   I have always had a knack for problem solving and using that in tandem with my love and passion for technology to create all kinds of applications!
       

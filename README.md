@@ -1,9 +1,5 @@
   # Hi, I’m Sean Elefant!
-  I am a Senior Computer Science major at The College of New Jersey, who is also pursuing a minor in Criminology.
-  
-  I have always had a knack for problem solving and using that in tandem with my love and passion for technology to create all kinds of applications!
-      
- I’m currently learning Ruby, Ruby on Rails, and Python.
+  I am a recent graduate of The College of New Jersey, who received a Bachelor of Science in Computer Science and a minor in Criminology.
  
  ## Contact Information:
  * seantelefant@gmail.com
